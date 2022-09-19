@@ -1,0 +1,8 @@
+Pipfile
+Pipfile.lock
+.python-version
+__pycache__/*
+app/__pycache__/*
+app/example/*
+app/intel/*
+app/img/*

@@ -1,0 +1,7 @@
+Flask==2.2.1
+numpy==1.19.5
+opencv-python==4.5.5.64
+openvino==2021.4.2
+openvino-dev==2021.4.2
+torch==1.8.1
+torchvision==0.9.1
